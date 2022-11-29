@@ -29,4 +29,4 @@ Steps 3-5 will generate you a secret key which will be used to run the website:
 your address bar
 13. To stop the website's running, go to the CMD and press CTRL+C.
 
-If you have any troubles running the website please contact us at the Email addresses: tamarsh224@gmail.con or lianagbaria73@gmail.com 
+If you have any troubles running the website please contact us at the Email addresses: tamarsh224@gmail.com
